@@ -11,5 +11,5 @@ alias get-fucked="pip install thefuck"
 
 function breaksystem {
   # Replace with your system update command
-  goddamn apt update && goddamn apt upgrade - y
+  goddamn apt update && goddamn apt upgrade -y
 }
