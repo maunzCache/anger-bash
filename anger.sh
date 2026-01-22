@@ -5,6 +5,7 @@
 alias goddamn="sudo "
 alias git-punch="git push --force"
 alias tableflip="goddamn shutdown now"
+alias towerofbabel="terraform apply -auto-approve -lock=false"
 
 # https://github.com/nvbn/thefuck
 alias get-fucked="pip install thefuck"
